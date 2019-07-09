@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">RNG</string>
+    <string name="app_name_long" translatable="false">Random Number Generator</string>
+    <string name="generate_random_number" translatable="true">Generate Random Number</string>
+    <string name="generate" translatable="true">Generate</string>
+    <string name="settings" translatable="true">Settings</string>
+    <string name="type" translatable="true">Type</string>
+    <string name="integer" translatable="true">Integer</string>
+    <string name="real" translatable="true">Real</string>
+    <string name="save" translatable="true">Save</string>
+    <string name="distribution" translatable="true">Distribution</string>
+    <string name="uniform" translatable="true">Uniform</string>
+    <string name="normal" translatable="true">Normal</string>
+</resources>
